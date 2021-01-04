@@ -1,0 +1,12 @@
+input{
+	outline: none;
+}
+.card{
+	background-color: #0000007a;
+	border: solid 1px #666;
+}
+
+.card-header {
+    background: #795548;
+    border-bottom: solid 1px #666;
+}
